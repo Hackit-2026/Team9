@@ -20,14 +20,25 @@ Happy Robot
 ## デモ
 
 - 発表資料URL：（当日公開）
-- デモURL：（会場での公開URLはQRコードで掲示）
-- デモ動画：（準備中）
+- [発表資料はこちら](https://kitm365-my.sharepoint.com/:p:/g/personal/c1601938_st_kanazawa-it_ac_jp/IQA5-bsSDk15SISkbFsf90ULARmqbbKgMgxEkcL0h0KDV1g?rtime=F6uEzfTw3kg)
+
+- デモ動画：
+  
+  ![完成した分別強制ゴミ箱の実機](docs_images/Demo_video.mp4)
+
+
 - スクリーンショット：
 
-  ![完成した分別強制ゴミ箱の実機](docs_images/device_photo.jpg)
+  <img src="docs_images/final.jpg" alt="完成した分別強制ゴミ箱の実機" width="300">
 
   カエルの口3つ（青＝ペットボトル／黄＝缶／赤＝燃えるゴミ）と、RealSenseカメラ、
   「ここの前に持っているごみをかざしてケロ！」の吹き出しを備えた実機。
+
+  <img src="docs_images/v2_kogaeru.png" alt="完成したウェブブラウザのスクリーンショット" width="300">
+
+　捨てたごみがリアルタイムで反映されるウェブブラウザ。
+　ゴミを一定数捨てると、レベルがアップしてカエルが成長していく。
+  
 
 ## システム構成
 
